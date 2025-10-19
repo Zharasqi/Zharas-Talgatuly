@@ -10,3 +10,5 @@
   </a>
 </p>
 
+## About Me <img src="https://media.giphy.com/media/jTNG3RF6EwbkpD4LZx/giphy.gif" width="30"/>
+
