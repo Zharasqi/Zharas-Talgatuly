@@ -19,12 +19,14 @@
 🤝 Хочу присоединиться к проекту, где ценят качество и внимание к деталям  
 ✨ Готов к тестовому заданию!
 
-
 <p align="center">
   <a href="https://www.linkedin.com/in/zharas-talgatuly-278870210/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?logo=linkedin&logoColor=white" alt="LinkedIn" height="36"/>
+    <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?logo=linkedin&logoColor=white" 
+         alt="LinkedIn" style="height:40px;"/>
   </a>
-  <a href="https://t.me/@zharastalgat" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-%2300A3E0.svg?logo=telegram&logoColor=white" alt="Telegram" height="36"/>
+  <a href="https://web.telegram.org/k/#@zharastalgat" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-%2300A3E0.svg?logo=telegram&logoColor=white" 
+         alt="Telegram" style="height:40px;"/>
   </a>
 </p>
+
