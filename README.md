@@ -102,3 +102,10 @@
     </tr>
   </table>
 </p>
+
+---
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Zharasqi/Zharas-Talgatuly/main/assets/snake.svg" alt="GitHub Snake Animation"/>
+</p>
+
+---
