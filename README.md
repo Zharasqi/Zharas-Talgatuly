@@ -26,7 +26,7 @@
   <a href="https://web.telegram.org/k/#@zharastalgat" target="_blank">
     <img src="https://img.shields.io/badge/-Telegram-%2300A3E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
   </a>
-  <a href="https://www.instagram.com/zhqrqs//" target="_blank">
+  <a href="https://www.instagram.com/zhqrqs/" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-%23800080?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
 </p>
