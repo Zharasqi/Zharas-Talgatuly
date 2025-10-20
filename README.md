@@ -111,18 +111,12 @@
 ---
 <h2 class="heading-element" dir="auto">📊 Statistics</h2>
 
-<div align="center" style="display:flex; justify-content:center; gap:20px; align-items:flex-start;">
-  <div style="margin-top:31px;">
-    <img src="https://streak-stats.demolab.com?user=Zharasqi&theme=telegram&hide_border=true&date_format=j%20M%5B%20Y%5D"
-         alt="GitHub Streak"
-         width="400" />
-  </div>
-  <div style="margin-top:1px;">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Zharasqi&theme=transparent"
-         alt="GitHub Stats"
-         width="400" />
-  </div>
-</div>
+<table align="center">
+  <tr>
+    <td><img src="https://streak-stats.demolab.com?user=Zharasqi&theme=telegram&hide_border=true" width="400"/></td>
+    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Zharasqi&theme=transparent" width="400"/></td>
+  </tr>
+</table>
 
 
   <div style="width:100%; max-width:900px; text-align:center;">
