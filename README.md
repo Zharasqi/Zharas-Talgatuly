@@ -12,12 +12,20 @@
 
 ## About Me <img src="https://media.giphy.com/media/jTNG3RF6EwbkpD4LZx/giphy.gif" width="30"/>
 
+<img align="right" alt="young_coder" src="https://raw.githubusercontent.com/Zharasqi/Zharas-Talgatuly/main/assets/young_coder.gif
+" data-canonical-src="[/Users/zharas/Downloads/young_coder.gif](https://raw.githubusercontent.com/Zharasqi/Zharas-Talgatuly/main/assets/young_coder.gif)" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
+
+
 🧪 QA Engineer / Тестировщик.  
 🎯 Ключевые навыки: функциональное тестирование, тест-дизайн, баг-репорты.  
 📚 Изучаю: Python + Selenium для автоматизации тестирования  
 📁 Ниже вы найдете примеры моих: баг-репортов, тест-кейсов, чек-листов  
 🤝 Хочу присоединиться к проекту, где ценят качество и внимание к деталям  
 ✨ Готов к тестовому заданию!
+
+
+
+
 
 <p align="center">
   <a href="https://www.linkedin.com/in/zharas-talgatuly-278870210/" target="_blank">
@@ -29,5 +37,10 @@
   <a href="https://www.instagram.com/zhqrqs/" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-%23800080?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
-</p>
+</p> 
+           
 
+
+
+
+<h2 class="heading-element" dir="auto">⚙️ Languages and Tools</h2>
