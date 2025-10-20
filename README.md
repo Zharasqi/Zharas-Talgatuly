@@ -45,8 +45,60 @@
   </a>
 </p> 
            
-
-
-
-
 <h2 class="heading-element" dir="auto">⚙️ Languages and Tools</h2>
+<p align="center">
+  <table align="center">
+    <tr>
+      <td align="center" width="96">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="80" height="80" alt="Python"/><br>
+        <sub><b>Python</b></sub>
+      </td>
+      <td align="center" width="96">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" width="80" height="80" alt="Selenium"/><br>
+        <sub><b>Selenium</b></sub>
+      </td>
+      <td align="center" width="96">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" width="80" height="80" alt="Jira"/><br>
+        <sub><b>Jira</b></sub>
+      </td>
+      <td align="center" width="96">
+        <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="80" height="80" alt="Postman"/><br>
+        <sub><b>Postman</b></sub>
+      </td>
+      <td align="center" width="96">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swagger/swagger-original.svg" width="80" height="80" alt="Swagger"/><br>
+        <sub><b>Swagger</b></sub>
+      </td>
+      <td align="center" width="96">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="80" height="80" alt="MySQL"/><br>
+        <sub><b>MySQL</b></sub>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="96">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="80" height="80" alt="Git"/><br>
+        <sub><b>Git</b></sub>
+      </td>
+      <td align="center" width="96">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="80" height="80" alt="GitHub"/><br>
+        <sub><b>GitHub</b></sub>
+      </td>
+      <td align="center" width="96">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="80" height="80" alt="Bash"/><br>
+        <sub><b>Bash</b></sub>
+      </td>
+      <td align="center" width="96">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" width="80" height="80" alt="Android Studio"/><br>
+        <sub><b>Android Studio</b></sub>
+      </td>
+      <td align="center" width="96">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" width="80" height="80" alt="Xcode"/><br>
+        <sub><b>Xcode</b></sub>
+      </td>
+      <td align="center" width="96">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="80" height="80" alt="VS Code"/><br>
+  <sub><b>Dev Tools</b></sub>
+</td>
+    </tr>
+  </table>
+</p>
