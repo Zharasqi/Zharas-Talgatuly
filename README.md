@@ -18,3 +18,13 @@
 📁 Ниже вы найдете примеры моих: баг-репортов, тест-кейсов, чек-листов  
 🤝 Хочу присоединиться к проекту, где ценят качество и внимание к деталям  
 ✨ Готов к тестовому заданию!
+
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/zharas-talgatuly-278870210/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?logo=linkedin&logoColor=white" alt="LinkedIn" height="31"/>
+  </a>
+  <a href="https://t.me/@zharastalgat" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-%2300A3E0.svg?logo=telegram&logoColor=white" alt="Telegram" height="30"/>
+  </a>
+</p>
