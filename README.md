@@ -12,8 +12,13 @@
 
 ## About Me <img src="https://media.giphy.com/media/jTNG3RF6EwbkpD4LZx/giphy.gif" width="30"/>
 
-<img align="right" alt="young_coder" src="https://raw.githubusercontent.com/Zharasqi/Zharas-Talgatuly/main/assets/young_coder.gif
-" data-canonical-src="[/Users/zharas/Downloads/young_coder.gif](https://raw.githubusercontent.com/Zharasqi/Zharas-Talgatuly/main/assets/young_coder.gif)" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
+
+<img 
+  align="right" 
+  alt="Coding" 
+  src="https://raw.githubusercontent.com/Zharasqi/Zharas-Talgatuly/main/assets/young_coder.gif"
+  style="max-width: 100%; display: inline-block; border-radius: 12px; margin-left: 20px; margin-bottom: 10px;"
+/>
 
 
 🧪 QA Engineer / Тестировщик.  
