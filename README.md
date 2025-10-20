@@ -21,12 +21,13 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/zharas-talgatuly-278870210/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?logo=linkedin&logoColor=white" 
-         alt="LinkedIn" style="height:40px;"/>
+    <img src="https://img.shields.io/badge/-LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://web.telegram.org/k/#@zharastalgat" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-%2300A3E0.svg?logo=telegram&logoColor=white" 
-         alt="Telegram" style="height:40px;"/>
+    <img src="https://img.shields.io/badge/-Telegram-%2300A3E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+  </a>
+  <a href="https://www.instagram.com/zhqrqs//" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-%23800080?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
 </p>
 
